@@ -1,0 +1,12 @@
+
+Column Name	                Description
+
+ID	                        Unique ID
+datetime	                  Datetime of record
+temperature	                Temperature at that hour
+var1	                      Anonymized feature var1
+pressure	                  Pressure at that hour
+windspeed	                  Wind Speed at that hour
+var2	                      Anonymized feature var2
+electricity_consumption	    Electrical consumption (in MWh)
+(target)
